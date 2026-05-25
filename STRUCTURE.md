@@ -1,3 +1,5 @@
+# Job Application Tracker
+
 | File / Folder         | Description                               |
 | --------------------- | ----------------------------------------- |
 | `assets/`             | Static assets (icons, images, etc.)       |
