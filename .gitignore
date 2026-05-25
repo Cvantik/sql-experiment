@@ -1,0 +1,4 @@
+# for non-code related ignores
+__pycache__/
+*.pyc
+*.db
