@@ -1,6 +1,6 @@
 .
 
-├── assets/               # Static assets (icons, images, etc.)
+├── assets/               # Static assets (icons, images, etc.)  
 ├── ui_add_update/       # UI components for adding/updating entries
 ├── __pycache__/         # Python cache files
 │
